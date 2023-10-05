@@ -82,6 +82,7 @@ class BaseLambdaDeploymentPackager(object):
         'python3.8': 'cp38',
         'python3.9': 'cp39',
         'python3.10': 'cp310',
+        'python3.11': 'cp311',
     }
 
     def __init__(
